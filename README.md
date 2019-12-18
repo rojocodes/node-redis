@@ -1,0 +1,1 @@
+boiler plate code for connecting to redis and setting and getting keys in nodejs
